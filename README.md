@@ -10,12 +10,14 @@ Estudante de **Engenharia de Computação** em início de jornada na programaç�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+
 ## 🌱 Estudando no momento
 - praticando todas as ferramentas e tecnologias estudadas
 
 ## 📂 Projetos
-- **estudos-c#**: exercícios e projetos em C# *(em breve)*
-- **estudos-sql**: consultas e modelagem de banco de dados *(em breve)*
+- [estudos-csharp](https://github.com/wictor-codes/estudos-csharp): exercícios e projetos em C#
+- [estudos-sql](https://github.com/wictor-codes/estudos-sql): consultas e modelagem de banco de dados
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/wictorcarlosdesousa/
